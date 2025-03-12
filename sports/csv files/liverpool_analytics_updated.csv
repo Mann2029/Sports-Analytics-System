@@ -1,0 +1,11 @@
+Player ID,Player Name,Team Name,Position,Timestamp,X Coordinate,Y Coordinate,Speed (m/s),Acceleration (m/s²),Distance Covered (m),Sprint Count,Heart Rate (BPM),Ball Possession Time (s),Heatmap Coverage (%),Avg Speed in Last 5 min (m/s),Fatigue Level (%),Injury Risk (%),Optimal Substitution Time (min),Pass Accuracy (%),Shots on Target (%),Successful Tackles
+1,Mohamed Salah,Liverpool,Forward,2025-03-07 11:32:30,64.55,11.65,18.43,0.99,725.93,49,177,161.54,68.95,7.46,19.92,25.9,80,70.85,70.08,6
+2,Andrew Robertson,Liverpool,Forward,2025-03-07 11:32:30,26.91,93.22,18.95,1.61,435.14,43,175,276.62,69.37,12.16,70.16,43.25,88,74.44,46.51,5
+3,Trent Alexander-Arnold,Liverpool,Midfielder,2025-03-07 11:32:30,74.55,74.46,10.65,0.29,777.92,3,90,180.9,67.12,11.9,28.83,18.78,34,52.94,36.29,10
+4,Riyad Mahrez,Liverpool,Forward,2025-03-07 11:32:30,17.72,38.45,9.07,4.59,560.41,39,80,291.21,27.85,13.36,55.31,8.67,52,71.82,19.22,7
+5,Serge Gnabry,Liverpool,Forward,2025-03-07 11:32:30,25.58,4.12,15.31,1.74,374.92,1,172,12.23,75.86,8.8,73.76,48.53,42,89.57,83.35,11
+6,Joao Cancelo,Liverpool,Forward,2025-03-07 11:32:30,12.12,12.58,29.26,4.43,592.32,1,147,87.19,26.13,9.95,84.35,29.09,90,71.3,56.82,14
+7,Angel Di Maria,Liverpool,Defender,2025-03-07 11:32:30,49.98,99.63,19.84,0.43,228.01,18,100,104.98,55.25,9.54,69.46,10.46,42,64.58,43.31,7
+8,Phil Foden,Liverpool,Defender,2025-03-07 11:32:30,67.12,80.06,31.53,0.57,274.72,16,153,89.39,47.19,7.43,10.78,14.7,50,90.3,57.32,8
+9,Joshua Kimmich,Liverpool,Defender,2025-03-07 11:32:30,92.76,34.74,7.03,4.0,520.41,40,147,111.16,53.09,14.57,33.68,25.56,64,73.28,43.27,8
+10,Rodrygo Goes,Liverpool,Midfielder,2025-03-07 11:32:30,94.83,39.66,8.08,3.79,616.17,9,96,271.92,38.12,14.0,73.85,12.56,88,79.36,88.71,3

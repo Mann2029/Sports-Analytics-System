@@ -1,0 +1,11 @@
+Player ID,Player Name,Team Name,Position,Timestamp,X Coordinate,Y Coordinate,Speed (m/s),Acceleration (m/s²),Distance Covered (m),Sprint Count,Heart Rate (BPM),Ball Possession Time (s),Heatmap Coverage (%),Avg Speed in Last 5 min (m/s),Fatigue Level (%),Injury Risk (%),Optimal Substitution Time (min),Pass Accuracy (%),Shots on Target (%),Successful Tackles
+1,Gianluigi Donnarumma,FC Barcelona,Defender,2025-03-07 11:32:30,58.49,58.65,5.04,0.33,697.51,15,106,28.17,68.68,3.37,61.22,38.72,32,95.86,45.92,1
+2,Jorginho,FC Barcelona,Midfielder,2025-03-07 11:32:30,23.68,46.49,18.15,0.95,682.93,4,126,48.3,27.4,14.17,49.13,45.4,41,73.0,34.7,11
+3,Luka Modric,FC Barcelona,Midfielder,2025-03-07 11:32:30,29.48,7.93,27.64,0.16,426.87,15,138,172.4,43.87,11.85,50.43,9.79,45,88.51,21.84,9
+4,Achraf Hakimi,FC Barcelona,Forward,2025-03-07 11:32:30,9.54,44.5,29.93,1.56,695.56,2,180,94.16,66.67,3.55,94.09,45.12,86,63.11,47.18,2
+5,Leon Goretzka,FC Barcelona,Goalkeeper,2025-03-07 11:32:30,14.71,26.2,12.69,3.81,128.45,25,92,247.29,62.46,8.22,78.63,9.36,52,78.04,51.52,15
+6,Theo Hernandez,FC Barcelona,Midfielder,2025-03-07 11:32:30,56.03,5.16,17.16,1.47,347.86,50,92,256.86,27.8,13.27,60.68,25.31,38,75.49,66.32,2
+7,Milan Skriniar,FC Barcelona,Defender,2025-03-07 11:32:30,82.57,38.89,15.28,2.94,517.51,29,180,63.82,66.36,5.78,77.94,11.99,88,50.51,57.77,15
+8,Kevin De Bruyne,FC Barcelona,Defender,2025-03-07 11:32:30,74.37,70.76,28.31,3.24,468.24,18,143,274.18,63.93,8.44,71.61,39.23,89,51.92,20.63,14
+9,Lionel Messi,FC Barcelona,Defender,2025-03-07 11:32:30,18.98,72.89,33.62,1.45,579.99,2,133,268.35,72.49,14.08,31.88,44.59,44,72.03,37.05,1
+10,Lautaro Martinez,FC Barcelona,Midfielder,2025-03-07 11:32:30,35.12,34.19,21.56,0.34,305.29,22,97,134.77,33.85,3.05,67.14,8.17,51,80.14,61.24,5

@@ -1,0 +1,11 @@
+Player ID,Player Name,Team Name,Position,Timestamp,X Coordinate,Y Coordinate,Speed (m/s),Acceleration (m/s²),Distance Covered (m),Sprint Count,Heart Rate (BPM),Ball Possession Time (s),Heatmap Coverage (%),Avg Speed in Last 5 min (m/s),Fatigue Level (%),Injury Risk (%),Optimal Substitution Time (min),Pass Accuracy (%),Shots on Target (%),Successful Tackles
+1,Robert Lewandowski,Bayern Munich,Forward,2025-03-07 11:32:30,61.72,65.78,28.54,0.11,210.8,12,161,171.37,67.26,14.8,66.46,20.15,76,87.86,43.42,5
+2,Virgil van Dijk,Bayern Munich,Forward,2025-03-07 11:32:30,44.63,16.32,8.22,1.9,775.58,25,130,146.47,73.42,6.73,58.54,18.34,30,78.37,58.78,9
+3,Marquinhos,Bayern Munich,Midfielder,2025-03-07 11:32:30,4.5,23.11,7.86,2.78,866.48,10,81,142.3,64.53,3.7,57.25,15.82,78,82.05,41.7,4
+4,Vinicius Jr.,Bayern Munich,Goalkeeper,2025-03-07 11:32:30,21.55,31.09,13.64,4.73,169.45,20,91,89.16,20.73,6.57,93.64,5.64,70,77.66,72.22,7
+5,Antoine Griezmann,Bayern Munich,Defender,2025-03-07 11:32:30,90.61,18.1,31.81,4.84,488.66,44,87,237.74,51.69,14.7,35.81,31.15,33,94.15,55.4,5
+6,Federico Chiesa,Bayern Munich,Forward,2025-03-07 11:32:30,8.8,31.91,33.88,3.15,218.84,31,102,253.27,79.06,11.25,87.82,28.26,85,81.18,77.77,14
+7,Mason Mount,Bayern Munich,Goalkeeper,2025-03-07 11:32:30,83.1,14.66,29.46,4.62,842.39,18,164,28.7,40.47,7.87,57.14,18.78,37,62.67,65.38,14
+8,Erling Haaland,Bayern Munich,Midfielder,2025-03-07 11:32:30,64.0,72.48,5.67,3.87,384.38,47,85,172.49,69.08,14.48,29.0,18.53,77,78.98,55.6,2
+9,Thiago Silva,Bayern Munich,Midfielder,2025-03-07 11:32:30,24.32,71.19,24.79,2.23,205.25,47,164,169.3,25.25,14.92,38.03,43.73,48,87.68,79.66,3
+10,Bernardo Silva,Bayern Munich,Goalkeeper,2025-03-07 11:32:30,52.7,90.37,10.79,2.44,557.46,3,134,62.14,34.47,14.4,31.52,19.08,70,70.17,10.77,12
