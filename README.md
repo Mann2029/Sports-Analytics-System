@@ -20,14 +20,11 @@
 ### This project includes four main dashboards:
 
 -File Name	Description: 
-    - cricket.py	Visualize batting and bowling performance in international cricket.
-    - nba.py	Analyze player/team performance in the NBA with stats like points, assists, rebounds, etc.
-    - football.py	Track physical and AI-based performance insights for top football teams.
-    - multi sports.py	A combined dashboard that allows switching between Cricket, NBA, and Football views.
+        - cricket.py	Visualize batting and bowling performance in international cricket.
+        - nba.py	Analyze player/team performance in the NBA with stats like points, assists, rebounds, etc.
+        - football.py	Track physical and AI-based performance insights for top football teams.
+        - multi sports.py	A combined dashboard that allows switching between Cricket, NBA, and Football views.
 - Each dashboard reads from multiple .csv files containing real player and team performance data.
-
-Absolutely! Below is a **detailed breakdown of features** for each module in your multi-sport analytics dashboard project. These explain what each dashboard does, how it works, and what insights users get — clearly and in simple terms.
-
 
 ## Detailed Features by Module
 
