@@ -177,12 +177,12 @@
 
 ## Directory Structure
 
-project/
-├── cricket.py              # Cricket analytics dashboard
-├── nba.py                  # NBA basketball dashboard
-├── football.py             # Football performance dashboard
-├── multi sports.py         # Unified multi-sport dashboard
-├── datasets/               # Folder containing all CSV files
+- project/
+  - ├── cricket.py              # Cricket analytics dashboard
+  - ├── nba.py                  # NBA basketball dashboard
+  - ├── football.py             # Football performance dashboard
+  - ├── multi sports.py         # Unified multi-sport dashboard
+  - ├── datasets/               # Folder containing all CSV files
 
 ## Requirements:
 - dash
