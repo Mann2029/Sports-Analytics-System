@@ -1,6 +1,6 @@
 # Sports-Analytics-System
 
-## Overvwiew
+## Overwiew
 - A comprehensive and intelligent sports analytics dashboard built with Python, Dash, and Plotly. This project enables data-driven performance analysis for Cricket, NBA Basketball, and Football, empowering users with:
 -  AI-powered player comparisons
 -  Interactive and responsive dashboards
